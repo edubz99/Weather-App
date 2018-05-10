@@ -1,0 +1,569 @@
+[
+  {
+    "id": 2643743,
+    "name": "London",
+    "country": "GB",
+    "coord": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    }
+  },
+  {
+    "id": 2655603,
+    "name": "Birmingham",
+    "country": "GB",
+    "coord": {
+      "lon": -1.89983,
+      "lat": 52.481419
+    }
+  },
+  {
+    "id": 1275506,
+    "name": "Birmitrapur",
+    "country": "IN",
+    "coord": {
+      "lon": 84.76667,
+      "lat": 22.4
+    }
+  },
+  {
+    "id": 4049979,
+    "name": "Birmingham",
+    "country": "US",
+    "coord": {
+      "lon": -86.80249,
+      "lat": 33.52066
+    }
+  },
+  {
+    "id": 4176380,
+    "name": "Venice",
+    "country": "US",
+    "coord": {
+      "lon": -82.454262,
+      "lat": 27.099779
+    }
+  },
+  {
+    "id": 4116526,
+    "name": "Jerome",
+    "country": "US",
+    "coord": {
+      "lon": -91.470123,
+      "lat": 33.399559
+    }
+  },
+  {
+    "id": 4219762,
+    "name": "Rome",
+    "country": "US",
+    "coord": {
+      "lon": -85.164673,
+      "lat": 34.257038
+    }
+  },
+  {
+    "id": 4220629,
+    "name": "Saint Marys",
+    "country": "US",
+    "coord": {
+      "lon": -81.546494,
+      "lat": 30.730511
+    }
+  },
+  {
+    "id": 894701,
+    "name": "Bulawayo",
+    "country": "ZW",
+    "coord": {
+      "lon": 28.58333,
+      "lat": -20.15
+    }
+  },
+  {
+    "id": 1105843,
+    "name": "Bulawayo Province",
+    "country": "ZW",
+    "coord": {
+      "lon": 28.58333,
+      "lat": -20.15
+    }
+  },
+  {
+    "id": 886843,
+    "name": "Mashonaland Central Province",
+    "country": "ZW",
+    "coord": {
+      "lon": 31,
+      "lat": -17
+    }
+  },
+  {
+    "id": 1007311,
+    "name": "Durban",
+    "country": "ZA",
+    "coord": {
+      "lon": 31.0292,
+      "lat": -29.857901
+    }
+  },
+  {
+    "id": 7285066,
+    "name": "Alt St. Johann",
+    "country": "CH",
+    "coord": {
+      "lon": 9.28038,
+      "lat": 47.184479
+    }
+  },
+  {
+    "id": 993800,
+    "name": "Johannesburg",
+    "country": "ZA",
+    "coord": {
+      "lon": 28.043631,
+      "lat": -26.202271
+    }
+  },
+  {
+    "id": 5106292,
+    "name": "West New York",
+    "country": "US",
+    "coord": {
+      "lon": -74.014313,
+      "lat": 40.78788
+    }
+  },
+  {
+    "id": 5128638,
+    "name": "New York",
+    "country": "US",
+    "coord": {
+      "lon": -75.499901,
+      "lat": 43.000351
+    }
+  },
+  {
+    "id": 4017700,
+    "name": "Estado de Baja California",
+    "country": "MX",
+    "coord": {
+      "lon": -115,
+      "lat": 30
+    }
+  },
+  {
+    "id": 5332921,
+    "name": "California",
+    "country": "US",
+    "coord": {
+      "lon": -119.751259,
+      "lat": 37.250221
+    }
+  },
+  {
+    "id": 2652221,
+    "name": "Coventry",
+    "country": "GB",
+    "coord": {
+      "lon": -1.51217,
+      "lat": 52.406559
+    }
+  },
+  {
+    "id": 5221637,
+    "name": "Coventry",
+    "country": "US",
+    "coord": {
+      "lon": -71.682838,
+      "lat": 41.7001
+    }
+  },
+  {
+    "id": 5367440,
+    "name": "Livermore",
+    "country": "US",
+    "coord": {
+      "lon": -121.768013,
+      "lat": 37.68187
+    }
+  },
+  {
+    "id": 5124925,
+    "name": "Liverpool",
+    "country": "US",
+    "coord": {
+      "lon": -76.217697,
+      "lat": 43.106461
+    }
+  },
+  {
+    "id": 7839747,
+    "name": "Liverpool",
+    "country": "AU",
+    "coord": {
+      "lon": 150.805862,
+      "lat": -33.95256
+    }
+  },
+  {
+    "id": 2644210,
+    "name": "Liverpool",
+    "country": "GB",
+    "coord": {
+      "lon": -2.97794,
+      "lat": 53.41058
+    }
+  },
+  {
+    "id": 2644688,
+    "name": "Leeds",
+    "country": "GB",
+    "coord": {
+      "lon": -1.54785,
+      "lat": 53.796478
+    }
+  },
+  {
+    "id": 2648579,
+    "name": "Glasgow",
+    "country": "GB",
+    "coord": {
+      "lon": -4.25763,
+      "lat": 55.86515
+    }
+  },
+  {
+    "id": 2653265,
+    "name": "Chelsea",
+    "country": "GB",
+    "coord": {
+      "lon": -0.16936,
+      "lat": 51.487549
+    }
+  },
+  {
+    "id": 2655095,
+    "name": "Bournemouth",
+    "country": "GB",
+    "coord": {
+      "lon": -1.8795,
+      "lat": 50.720482
+    }
+  },
+  {
+    "id": 4125402,
+    "name": "Paris",
+    "country": "US",
+    "coord": {
+      "lon": -93.729919,
+      "lat": 35.29203
+    }
+  },
+  {
+    "id": 6455259,
+    "name": "Paris",
+    "country": "FR",
+    "coord": {
+      "lon": 2.35236,
+      "lat": 48.856461
+    }
+  },
+  {
+    "id": 3489586,
+    "name": "Parish of Manchester",
+    "country": "JM",
+    "coord": {
+      "lon": -77.533333,
+      "lat": 18.049999
+    }
+  },
+  {
+    "id": 2651346,
+    "name": "Derbyshire",
+    "country": "GB",
+    "coord": {
+      "lon": -1.58333,
+      "lat": 53.166672
+    }
+  },
+  {
+    "id": 7290672,
+    "name": "High Peak District",
+    "country": "GB",
+    "coord": {
+      "lon": -1.84251,
+      "lat": 53.367298
+    }
+  },
+  {
+    "id": 2654141,
+    "name": "Buxton",
+    "country": "GB",
+    "coord": {
+      "lon": -1.90982,
+      "lat": 53.257408
+    }
+  },
+  {
+    "id": 2650113,
+    "name": "Elkesley",
+    "country": "GB",
+    "coord": {
+      "lon": -0.97076,
+      "lat": 53.27282
+    }
+  },
+  {
+    "id": 2634860,
+    "name": "Walmsgate",
+    "country": "GB",
+    "coord": {
+      "lon": 0.04705,
+      "lat": 53.283531
+    }
+  },
+  {
+    "id": 2896665,
+    "name": "Jheringsfehn",
+    "country": "DE",
+    "coord": {
+      "lon": 7.53333,
+      "lat": 53.316669
+    }
+  },
+  {
+    "id": 2823470,
+    "name": "Terborg",
+    "country": "DE",
+    "coord": {
+      "lon": 7.38333,
+      "lat": 53.299999
+    }
+  },
+  {
+    "id": 7521313,
+    "name": "Connaught",
+    "country": "IE",
+    "coord": {
+      "lon": -8.63333,
+      "lat": 53.869999
+    }
+  },
+  {
+    "id": 2964179,
+    "name": "County Galway",
+    "country": "IE",
+    "coord": {
+      "lon": -9,
+      "lat": 53.333328
+    }
+  },
+  {
+    "id": 3315458,
+    "name": "Dooveher",
+    "country": "IE",
+    "coord": {
+      "lon": -9.88611,
+      "lat": 53.332218
+    }
+  },
+  {
+    "id": 3333220,
+    "name": "Borough of Wirral",
+    "country": "GB",
+    "coord": {
+      "lon": -3.08333,
+      "lat": 53.333328
+    }
+  },
+  {
+    "id": 886761,
+    "name": "Masvingo Province",
+    "country": "ZW",
+    "coord": {
+      "lon": 31,
+      "lat": -21
+    }
+  },
+  {
+    "id": 886763,
+    "name": "Masvingo",
+    "country": "ZW",
+    "coord": {
+      "lon": 30.82766,
+      "lat": -20.06373
+    }
+  },
+  {
+    "id": 894310,
+    "name": "Charara",
+    "country": "ZW",
+    "coord": {
+      "lon": 28.95179,
+      "lat": -16.54977
+    }
+  },
+  {
+    "id": 1085511,
+    "name": "Dunowen",
+    "country": "ZW",
+    "coord": {
+      "lon": 31.116671,
+      "lat": -17.89139
+    }
+  },
+  {
+    "id": 1085520,
+    "name": "Arlington",
+    "country": "ZW",
+    "coord": {
+      "lon": 31.094721,
+      "lat": -17.913059
+    }
+  },
+  {
+    "id": 893485,
+    "name": "Chiredzi",
+    "country": "ZW",
+    "coord": {
+      "lon": 31.66667,
+      "lat": -21.049999
+    }
+  },
+  {
+    "id": 893549,
+    "name": "Chipinge",
+    "country": "ZW",
+    "coord": {
+      "lon": 32.623638,
+      "lat": -20.18833
+    }
+  },
+  {
+    "id": 1105960,
+    "name": "Umvutcha A",
+    "country": "ZW",
+    "coord": {
+      "lon": 28.58861,
+      "lat": -20.051941
+    }
+  },
+  {
+    "id": 7602866,
+    "name": "Région du Borkou",
+    "country": "TD",
+    "coord": {
+      "lon": 18.5,
+      "lat": 18.25
+    }
+  },
+  {
+    "id": 2432678,
+    "name": "Largeau",
+    "country": "TD",
+    "coord": {
+      "lon": 19.10428,
+      "lat": 17.925699
+    }
+  },
+  {
+    "id": 890299,
+    "name": "Harare",
+    "country": "ZW",
+    "coord": {
+      "lon": 31.05389,
+      "lat": -17.82935
+    }
+  },
+  {
+    "id": 2151649,
+    "name": "Richmond",
+    "country": "AU",
+    "coord": {
+      "lon": 145.001755,
+      "lat": -37.818192
+    }
+  },
+  {
+    "id": 2171000,
+    "name": "Collingwood",
+    "country": "AU",
+    "coord": {
+      "lon": 144.983337,
+      "lat": -37.799999
+    }
+  },
+  {
+    "id": 2154855,
+    "name": "North Sydney",
+    "country": "AU",
+    "coord": {
+      "lon": 151.207214,
+      "lat": -33.840561
+    }
+  },
+  {
+    "id": 2166584,
+    "name": "Fitzroy",
+    "country": "AU",
+    "coord": {
+      "lon": 144.983337,
+      "lat": -37.783329
+    }
+  },
+  {
+    "id": 6943577,
+    "name": "Fortitude Valley",
+    "country": "AU",
+    "coord": {
+      "lon": 153.034744,
+      "lat": -27.45718
+    }
+  },
+  {
+    "id": 5340687,
+    "name": "Creston",
+    "country": "US",
+    "coord": {
+      "lon": -120.523773,
+      "lat": 35.51886
+    }
+  },
+  {
+    "id": 4364519,
+    "name": "Oliver Beach",
+    "country": "US",
+    "coord": {
+      "lon": -76.342743,
+      "lat": 39.37289
+    }
+  },
+  {
+    "id": 7839805,
+    "name": "Melbourne",
+    "country": "AU",
+    "coord": {
+      "lon": 144.944214,
+      "lat": -37.813061
+    }
+  },
+  {
+    "id": 1609350,
+    "name": "Bangkok",
+    "country": "TH",
+    "coord": {
+      "lon": 100.51667,
+      "lat": 13.75
+    }
+  },
+  {
+    "id": 6695671,
+    "name": "Sukhumvit",
+    "country": "TH",
+    "coord": {
+      "lon": 100.556061,
+      "lat": 13.73502
+    }
+  }
+]

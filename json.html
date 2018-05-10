@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>json test</title>
+</head>
+
+<body>
+
+
+    <script>
+
+        const cities = [];
+
+        fetch('citylist.json')
+            .then((response) => response.json())
+            .then(data => cities.push(data))
+
+        function findMatches(wordToMatch, cities) {
+            return cities[0].filter(place => {
+                //Here we use regex to figure out if the word search  matches the place.name
+                //g = global, i = insensitive case 
+                const regex = new RegExp(wordToMatch, 'gi');
+                return place.name.match(regex)
+
+            });
+        }
+
+        function displayMatches () {
+            console.log(this.value)
+        }
+
+    </script>
+</body>
+
+</html>
