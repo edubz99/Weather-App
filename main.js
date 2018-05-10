@@ -60,7 +60,7 @@
 
 
         function fetchWeather(searchValue) {
-            fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${searchValue}&units=metric&APPID=04ee0d6b874c146c6a71d91941de4dc2`)
+            fetch(`https://api.openweathermap.org/data/2.5/forecast?q=${searchValue}&units=metric&APPID=04ee0d6b874c146c6a71d91941de4dc2`)
                 .then((response) => response.json())
                 .then((data) => {
                     const cityName = data.city.name;
@@ -73,7 +73,7 @@
 
                     //Fetch Weather Icon
                     function fetchIcon(code) {
-                        const image = `http://openweathermap.org/img/w/${code}.png`
+                        const image = `https://openweathermap.org/img/w/${code}.png`
 
                         return image;
                     }
